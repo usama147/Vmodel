@@ -1,0 +1,13 @@
+Advantages of V-model:
+
+1. Easy and simple to use.
+2. Saves alot of time when it comes to testing designing and planning.
+3. Avoids the downward flow of the defects.
+4. Works well for small projects.
+5. Has proactive defect tracking.
+
+Disadvantages of V-model:
+
+1. Not very flexible.
+2. No early prototypes of a software can be produced.
+3. If any changes happen in midway, then the test documents along with requirement documents has to be updated.
